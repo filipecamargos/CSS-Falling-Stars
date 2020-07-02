@@ -1,0 +1,272 @@
+#sky {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(black, #283751, #1A247A, #2556AA, #2579AA, #CB90C7);
+}
+
+.star-six {
+    width: 0px;
+    height: 0px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid white;
+    position: relative;
+    animation-name: brilhando;
+    animation-iteration-count: infinite;
+}
+
+.star-six:after {
+    width: 0px;
+    height: 0px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 10px solid white;
+    position: absolute;
+    content: "";
+    top: 3px;
+    left: -5px;
+    animation-name: brilhando;
+}
+
+.start1 {
+    margin-top: 1%;
+    margin-left: 2%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start2 {
+    margin-top: -2%;
+    margin-left: 4%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start3 {
+    margin-top: 0%;
+    margin-left: 6%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start4 {
+    margin-top: 3%;
+    margin-left: 75%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start5 {
+    margin-top: -5%;
+    margin-left: 8%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start6 {
+    margin-top: 0%;
+    margin-left: 11%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start7 {
+    margin-top: 0%;
+    margin-left: 13%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start8 {
+    margin-top: -1%;
+    margin-left: 15%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start9 {
+    margin-top: -2%;
+    margin-left: 17%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start10 {
+    margin-top: 1%;
+    margin-left: 19%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start11 {
+    margin-top: -2%;
+    margin-left: 23%;
+    animation-name: brilhando;
+    animation-duration: 8s;
+}
+
+.start12 {
+    margin-top: 1%;
+    margin-left: 26%;
+    animation-name: brilhando;
+    animation-duration: 9s;
+}
+
+.start13 {
+    margin-top: -3%;
+    margin-left: 30%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start14 {
+    margin-top: 1%;
+    margin-left: 33%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start15 {
+    margin-top: 0%;
+    margin-left: 36%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start16 {
+    margin-top: -3%;
+    margin-left: 39%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start17 {
+    margin-top: 1%;
+    margin-left: 42%;
+    animation-name: brilhando;
+    animation-duration: 10s;
+}
+
+.start18 {
+    margin-top: -2%;
+    margin-left: 45%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start19 {
+    margin-top: 1%;
+    margin-left: 50%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start20 {
+    margin-top: 1%;
+    margin-left: 54%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start21 {
+    margin-top: -3%;
+    margin-left: 52%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start22 {
+    margin-top: 1%;
+    margin-left: 58%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start23 {
+    margin-top: -3%;
+    margin-left: 61%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start24 {
+    margin-top: 1%;
+    margin-left: 65%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start25 {
+    margin-top: -1%;
+    margin-left: 69%;
+    animation-name: brilhando;
+    animation-duration: 7s;
+}
+
+.start26 {
+    margin-top: -2%;
+    margin-left: 75%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start27 {
+    margin-top: 1%;
+    margin-left: 80%;
+    animation-name: brilhando;
+    animation-duration: 8s;
+}
+
+.start28 {
+    margin-top: 1%;
+    margin-left: 89%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start29 {
+    margin-top: -4%;
+    margin-left: 95%;
+    animation-name: brilhando;
+    animation-duration: 5s;
+}
+
+.start30 {
+    margin-top: -1%;
+    margin-left: 92%;
+    animation-name: brilhando;
+    animation-duration: 6s;
+}
+
+.start31 {
+    margin-top: 0%;
+    margin-left: 99%;
+    animation-name: brilhando;
+    animation-duration: 4s;
+}
+
+.start32 {
+    margin-top: 0%;
+    margin-left: 85%;
+    animation-name: brilhando;
+    animation-duration: 3s;
+}
+
+@keyframes brilhando {
+    0% {
+        top: 0px;
+    }
+    50% {
+        transform: scale(0.5);
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0;
+        top: 500px;
+    }
+}
